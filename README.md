@@ -18,11 +18,9 @@ Let's connect and create something amazing together!
   <a href="https://x.com/cobos__eduardo" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <div>
   <a href="https://www.linkedin.com/in/daniel-e-cobos" target="_blank">
     <img src="https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+  </a>  
 </div>
 
 ---
@@ -30,9 +28,15 @@ Let's connect and create something amazing together!
 ### 🔥 My Stats:
 
 <div align="center">
+  <div style="margin-bottom: 6px">
   <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=danny2768&theme=dark&background=000000" alt="Github streak stats"/>
+  </div>
+  <div style="margin-bottom: 6px">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny2768&layout=compact&theme=vision-friendly-dark" alt="Github languages stats"/>
+  </div>
+  <div>
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danny2768&show_icons=true&theme=dark" alt="Github languages stats"/>
+  </div>
 </div>
 
 <!--
