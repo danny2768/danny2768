@@ -34,9 +34,9 @@ Let's connect and create something amazing together!
   <div style="margin-bottom: 6px">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny2768&layout=compact&theme=vision-friendly-dark" alt="Github languages stats"/>
   </div>
-  <div>
+  <!-- <div>
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=danny2768&show_icons=true&theme=dark" alt="Github languages stats"/>
-  </div>
+  </div> -->
 </div>
 
 <!--
